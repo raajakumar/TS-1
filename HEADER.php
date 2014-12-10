@@ -1,6 +1,7 @@
 <html>
 <!--HEAD TAG START-->
 <head>
+<title>Header Information </title>
     <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css">
     <!--TO SUPPORT JQUERY FUNCTIONALITIES-->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
